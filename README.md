@@ -1,1 +1,5 @@
-# todo_niteesh
+# 📝 React Notes App
+
+This is a simple and user-friendly note-taking application built using React. The app allows users to create notes with a title, content, and a priority level (High, Medium, or Low). Users can edit existing notes, delete them when no longer needed, and view them sorted based on their priority, making it easy to focus on what’s most important. The design is minimal and responsive, keeping the focus on usability and speed. It’s a great beginner-friendly project for learning how to manage state, handle forms, and pass data between components in React.
+
+The project is developed using React for the frontend UI and JavaScript for the application logic. The `useState` and `useEffect` hooks are used for state management and effect handling. The `uuid` library is used to assign unique IDs to each note, which helps with updating and deleting notes accurately. CSS is used for styling, giving the app a clean and modern look. Overall, it’s a solid example of a CRUD application built entirely with frontend technologies.
